@@ -33,7 +33,7 @@ else
     endif
 endif
 
-.PHONY: all clean
+.PHONY: all clean run
 
 all: bin/graph
 
